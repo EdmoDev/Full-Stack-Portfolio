@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Full-Stack-Portfolio/static/css/main.b0ca0f66.chunk.css",
-    "main.js": "/Full-Stack-Portfolio/static/js/main.d46085e5.chunk.js",
-    "main.js.map": "/Full-Stack-Portfolio/static/js/main.d46085e5.chunk.js.map",
-    "runtime-main.js": "/Full-Stack-Portfolio/static/js/runtime-main.6add8412.js",
-    "runtime-main.js.map": "/Full-Stack-Portfolio/static/js/runtime-main.6add8412.js.map",
-    "static/js/2.a53f75c9.chunk.js": "/Full-Stack-Portfolio/static/js/2.a53f75c9.chunk.js",
-    "static/js/2.a53f75c9.chunk.js.map": "/Full-Stack-Portfolio/static/js/2.a53f75c9.chunk.js.map",
-    "index.html": "/Full-Stack-Portfolio/index.html",
-    "static/css/main.b0ca0f66.chunk.css.map": "/Full-Stack-Portfolio/static/css/main.b0ca0f66.chunk.css.map",
-    "static/js/2.a53f75c9.chunk.js.LICENSE.txt": "/Full-Stack-Portfolio/static/js/2.a53f75c9.chunk.js.LICENSE.txt",
-    "static/media/Edmond.519e97ee.png": "/Full-Stack-Portfolio/static/media/Edmond.519e97ee.png",
-    "static/media/HomeSVG.80c4e5e5.svg": "/Full-Stack-Portfolio/static/media/HomeSVG.80c4e5e5.svg",
-    "static/media/Logo.dba1b94c.svg": "/Full-Stack-Portfolio/static/media/Logo.dba1b94c.svg",
-    "static/media/Maps.f5a2e206.png": "/Full-Stack-Portfolio/static/media/Maps.f5a2e206.png"
+    "main.css": "/Full-Stack-Portfolio/about/static/css/main.b0ca0f66.chunk.css",
+    "main.js": "/Full-Stack-Portfolio/about/static/js/main.d46085e5.chunk.js",
+    "main.js.map": "/Full-Stack-Portfolio/about/static/js/main.d46085e5.chunk.js.map",
+    "runtime-main.js": "/Full-Stack-Portfolio/about/static/js/runtime-main.4d2d1e7a.js",
+    "runtime-main.js.map": "/Full-Stack-Portfolio/about/static/js/runtime-main.4d2d1e7a.js.map",
+    "static/js/2.a53f75c9.chunk.js": "/Full-Stack-Portfolio/about/static/js/2.a53f75c9.chunk.js",
+    "static/js/2.a53f75c9.chunk.js.map": "/Full-Stack-Portfolio/about/static/js/2.a53f75c9.chunk.js.map",
+    "index.html": "/Full-Stack-Portfolio/about/index.html",
+    "static/css/main.b0ca0f66.chunk.css.map": "/Full-Stack-Portfolio/about/static/css/main.b0ca0f66.chunk.css.map",
+    "static/js/2.a53f75c9.chunk.js.LICENSE.txt": "/Full-Stack-Portfolio/about/static/js/2.a53f75c9.chunk.js.LICENSE.txt",
+    "static/media/Edmond.519e97ee.png": "/Full-Stack-Portfolio/about/static/media/Edmond.519e97ee.png",
+    "static/media/HomeSVG.80c4e5e5.svg": "/Full-Stack-Portfolio/about/static/media/HomeSVG.80c4e5e5.svg",
+    "static/media/Logo.dba1b94c.svg": "/Full-Stack-Portfolio/about/static/media/Logo.dba1b94c.svg",
+    "static/media/Maps.f5a2e206.png": "/Full-Stack-Portfolio/about/static/media/Maps.f5a2e206.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6add8412.js",
+    "static/js/runtime-main.4d2d1e7a.js",
     "static/js/2.a53f75c9.chunk.js",
     "static/css/main.b0ca0f66.chunk.css",
     "static/js/main.d46085e5.chunk.js"
