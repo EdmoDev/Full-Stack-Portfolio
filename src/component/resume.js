@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, Grid, Typography, useTheme, useMediaQuery } from '@mui/material';
+import { typography } from '@mui/system';
 
 export default function About() {
   const theme = useTheme();
@@ -31,7 +32,10 @@ export default function About() {
             {/* For image */}
             <Grid item xs={6}></Grid>
             {/* for Text */}
-            <Grid item xs={6}></Grid>
+            <Grid item xs={6}>
+              <typography> This page site is still in maintenance, Everything will be up to date soon including Resume
+                </typography>
+            </Grid>
           </Grid>
         </Card>
       </Grid>
